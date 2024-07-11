@@ -45,3 +45,11 @@ Running App
 ```
 npm run dev
 ```
+
+## Documentation
+
+<img width="600" src="https://github.com/user-attachments/assets/fc8f76f0-1f58-4cb3-bcb7-40e22cce927f" alt="doc1" />
+<img width="600" src="https://github.com/user-attachments/assets/7fd4e836-3dd0-445c-b572-c21e5eb91f12" alt="doc2" />
+<img width="600" src="https://github.com/user-attachments/assets/b3a2868d-6df1-445e-ba15-43d510f20d0c" alt="doc3" />
+<img width="600" src="https://github.com/user-attachments/assets/519a3ec2-74c5-4ba8-9bfd-00d748401569" alt="doc4" />
+<img width="600" src="https://github.com/user-attachments/assets/6d313f59-2470-48bb-b1ce-4c43db228a75" alt="doc5" />
