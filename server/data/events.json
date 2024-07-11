@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Subject": "Meeting - 1A",
+    "StartTime": "Fri Jul 12 2024 10:00:00 GMT+0700 (Western Indonesia Time)",
+    "EndTime": "Fri Jul 12 2024 12:30:00 GMT+0700 (Western Indonesia Time)",
+    "IsAllDay": false
+  },
+  {
+    "Id": 3,
+    "Subject": "Meeting - 2C",
+    "StartTime": "Fri Jul 14 2024 10:00:00 GMT+0700 (Western Indonesia Time)",
+    "EndTime": "Fri Jul 14 2024 12:30:00 GMT+0700 (Western Indonesia Time)",
+    "IsAllDay": true
+  }
+]
